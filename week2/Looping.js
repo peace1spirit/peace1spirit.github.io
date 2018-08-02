@@ -25,6 +25,7 @@ for (i = 20; i>=1; i--) {
     console.log(i + '- I love coding')
 }
 
+console.log ('\n')
 
 for (i = 1; i<=100; i++) { 
     if (i % 2 != 0){
@@ -32,7 +33,7 @@ for (i = 1; i<=100; i++) {
     }
         
     else 
-        console.log('Genap')
+        console.log('//Counter sekarang : '+ i +'\n' + 'Genap')
 }
 
 for (i = 1; i<=100; i+=2) { 
@@ -45,9 +46,9 @@ for (i = 1; i<=100; i+=5) {
         console.log(i + ' Kelipatan 6')
 
 }
-for (i = 1; i<=100; i+=10) { 
+for (i = 1; i<=100; i+=9) { 
     if (i % 10 == 0)
-        console.log(i + ' Kelipatan 6')
+        console.log(i + ' Kelipatan 10')
 
 }
 
