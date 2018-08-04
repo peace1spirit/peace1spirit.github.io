@@ -1,4 +1,4 @@
-
+//SOAL no 1
 var i=2
 console.log('LOOPING PERTAMA')
 while (i <= 20){
@@ -14,7 +14,7 @@ while (i >= 1){
 }
 
 console.log ('\n')
-
+//SOAL no 2
 console.log('LOOPING PERTAMA')
 for (i = 1; i <=20; i++) { 
     console.log(i + '- I love coding')
@@ -26,6 +26,7 @@ for (i = 20; i>=1; i--) {
 }
 
 console.log ('\n')
+//SOAL no 3
 
 for (i = 1; i<=100; i++) { 
     if (i % 2 != 0){
