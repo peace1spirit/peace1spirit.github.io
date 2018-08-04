@@ -1,10 +1,11 @@
+//SOAL NO 1
 var rows1 = 5;
 for (i = 0; i < rows1; i++) {
     console.log('*')
 
 }
 console.log('\n')
-
+//SOAL NO 2
 var rows2 = 5;
 var text='';
 for (i = 0; i < rows2; i++) {
@@ -15,6 +16,7 @@ for (i = 0; i < rows2; i++) {
     text='';    
 }
 console.log('\n')
+//SOAL NO 3
 var rows3 = 5;
 var text='';
 for (i = 0; i < rows3; i++) {
