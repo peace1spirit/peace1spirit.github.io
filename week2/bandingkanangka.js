@@ -1,11 +1,10 @@
 function bandingkanAngka(angka1, angka2) {
-  // you can only write your code here!
   if (angka1<angka2)
-     return ('true')
-  else if (angka1==angka2)
-     return ('-1')
+     return true
+  else if angka1==angka2
+     return -1'
   else
-    return ('false')
+    return false
 }
 
 // TEST CASES
